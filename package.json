@@ -1,0 +1,16 @@
+{
+  "name": "schnitzbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Anaya",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x",
+    "request": "^2.79.x"
+  }
+}
