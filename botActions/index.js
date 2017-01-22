@@ -1,4 +1,4 @@
-const welcomeMessage = require('./welcomeMessage.js');
+const suggestion = require('./suggestion.js');
 module.exports = {
-  welcomeMessage,
+  suggestion,
 };
