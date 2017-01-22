@@ -1,5 +1,4 @@
 function suggestion(req, res) {
-  console.log(req);
   const { user_name, channel_name } = req.body;
   const responsePayload = {
     text: 'Hello @' + user_name + ', it\'s Schnitzel time!',
